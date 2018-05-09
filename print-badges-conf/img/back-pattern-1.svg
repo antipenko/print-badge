@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.26" height="96.09" viewBox="0 0 112.26 96.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #d1d3d4;
+        stroke-linejoin: round;
+        stroke-width: 1.13px;
+      }
+    </style>
+  </defs>
+  <title>back-pattern-1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Background2">
+      <path class="cls-1" d="M56.13,63.87H93.41l18.27-31.65H74.4L56.13,63.87Zm55.56,31.65H74.4L56.13,63.87H93.41l18.27,31.65ZM74.4,32.22,56.13.57m0,63.31H18.84L.57,32.22H37.85L56.13,63.87ZM.57,95.52H37.85L56.13,63.87H18.84L.57,95.52Zm0-63.31H37.85L56.13.57H18.84L.57,32.22Z"/>
+    </g>
+  </g>
+</svg>
