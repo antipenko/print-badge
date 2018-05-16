@@ -144,8 +144,15 @@
 /* Print */
 
 @media print {
-    .sticker {
-        -webkit-print-color-adjust: exact;
-        text-rendering: geometricPrecision;
-    }
+        body {
+            background-color: white;
+            display: flow-root;
+            padding: 2mm 0 0 0mm;
+            box-sizing: border-box;
+        }
+        .sticker {
+            -webkit-print-color-adjust: exact;
+            text-rendering: geometricPrecision;
+            margin: 0 2mm 2mm;
+        }
 }

@@ -1,5 +1,5 @@
 const prince = require('prince');
- 
+
 prince()
     .inputs('index.html')
     .output('index.pdf')
@@ -9,3 +9,4 @@ prince()
     }, function (error) {
         console.log('Error: ', util.inspect(error));
     });
+

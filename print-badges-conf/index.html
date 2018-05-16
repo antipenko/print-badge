@@ -31,17 +31,26 @@
 				background-color: white;
 				display: flow-root;
 				padding: 4.5mm 0 0 15mm;
-				width: 420mm;
+				width: 297mm;
 				box-sizing: border-box;
 			}
+		}
+
+		.sticker{
+			/*transform: rotate(90deg);*/
+			/*margin-bottom: 160px !important;*/
 		}
 
 		/* Print */
 
 		@page {
-			margin: 4.5mm 0 0 15mm;
+			margin: 4.5mm 0 0 0mm;
+			/*margin: 0;*/
 			size: 210mm 297mm;
+			size: 420mm 594mm;
+			size: 594mm 841mm;
 		}
+
 	</style>
 	<link rel="stylesheet" href="sticker.css">
 </head>
@@ -535,6 +544,6 @@
 		</h2>
 		<p class="sticker__twitter"></p>
 	</article>
-
+	<script src="app.js"></script>
 </body>
 </html>
