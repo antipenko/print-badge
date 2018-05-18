@@ -155,4 +155,16 @@
             text-rendering: geometricPrecision;
             margin: 0 2mm 2mm;
         }
+        .modal{
+            display: none;
+        }
+}
+
+
+.modal{
+    position: fixed;
+    display: none;
+    background: #fff;
+    border: 2px solid #000;
+    text-align: center;
 }
