@@ -40,7 +40,7 @@ let papers = {
 
 let stickerWidth = 110,
     stickerHeight = 70,
-    stickerCount = 97,
+    stickerCount = 84,
     stickerCountHorizontal,
     stickerCountVertical,
     stickerCountOnPage,
